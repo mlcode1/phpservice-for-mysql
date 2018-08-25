@@ -1,0 +1,16 @@
+{
+    "name": "marin/phpservice",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mlcode",
+            "email": "837083114@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Marin\\Phpservice\\": "src/"
+        }
+    }
+}
